@@ -1,0 +1,96 @@
+{
+    "recipes":[
+        {
+            "id":1,
+            "title":"Chicken greenies",
+            "description":"#healthy #trending #nofilters",
+            "serves":"2 people",
+            "imageUrl":"assets/chickensalad.jpeg",
+            "ingredients":[
+                {
+                    "amount":"1 head",
+                    "name":"lettuce"
+                },
+                {
+                    "amount":"10",
+                    "name":"carrots"
+                },
+                {
+                    "amount":"1",
+                    "name":"chicken brest"
+                },
+                {
+                    "amount":"2 tablespoons",
+                    "name":"oil and vinegar"
+                }
+                ],
+            "instructions":[
+                "remove lettuve leaves","add letuce leaves to a large bowl","then add the carrots to the bowl", "cut and add the cooked Chicken brests to the bowl","add the oil and vinegar","mix it all together"
+                ]
+        },
+        {
+            "id":2,
+            "title":"Cupcakes",
+            "description":"Diabeetus maximus!",
+            "serves":"4 people",
+            "imageUrl":"assets/cupcakes.jpeg",
+            "ingredients":[
+                {
+                    "amount":"1 kilo",
+                    "name":"flour"
+                },
+                {
+                    "amount":"300g",
+                    "name":"chocolate"
+                },
+                {
+                    "amount":"200g",
+                    "name":"sugar"
+                },
+                {
+                    "amount":"100g",
+                    "name":"butter"
+                },
+                {
+                    "amount":"20",
+                    "name":"cupcake liners"
+                }
+            ],
+            "instructions":[
+                "mix the butter with the flower and sugar","melt the chocolate and mix it with the flower and butter","put the atter in as many cupcake liners as you need", "place in a tray and bake for 20 mins at 220 degrees","remove from the oven and wait untill they are at room temperature","enjoy"
+            ]
+        },
+        {
+            "id":3,
+            "title":"Burrito loco",
+            "description":"My grandfather died retrieving this recipe from the aztecs. They're yummy",
+            "serves":"20",
+            "imageUrl":"assets/burrito.jpg",
+            "ingredients":[
+                {
+                    "amount":"10 kilo",
+                    "name":"ground meat"
+                },
+                {
+                    "amount":"40",
+                    "name":"tortillas"
+                },
+                {
+                    "amount":"10ml",
+                    "name":"tears of your enemies"
+                },
+                {
+                    "amount":"all",
+                    "name":"Chilly peppers"
+                },
+                {
+                    "amount":"5",
+                    "name":"Onions"
+                }
+            ],
+            "instructions":[
+                "cut, dice and stir fry the peppers and onions","remove from pan and stir fry the meat, season with salt and pepper","when the meat is ready, add the previously cooked vegetables","stick the delicious stuff in a tortilla","eat with lots of hot sauce (no burrito must have a mild flavor, that's for the weak)"
+            ]
+        }
+    ]
+}

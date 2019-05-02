@@ -1,0 +1,40 @@
+.header-image{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+h1 {
+    margin-top: 1em;
+    text-decoration: underline;
+}
+
+h2{
+    margin-bottom: 1em;
+}
+
+.main {
+    background: rgb(233, 233, 233);
+    padding: 1em;
+    margin-top: 2em;
+    border-radius: .5em;
+}
+
+button {
+    margin-top: 1em;
+    margin-right: 1em;
+    min-width: 100px;
+}
+
+.back-and-edit {
+    margin-bottom: 2em;
+}
+
+.container{
+    margin-bottom: 2em;
+}
+
+.ingredients {
+    background-color: rgb(216, 216, 216);
+    border-radius: .5em;
+}

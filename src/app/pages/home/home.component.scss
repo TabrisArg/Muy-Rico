@@ -1,0 +1,17 @@
+.jumbotron {
+    background: url('/assets/jumbo-background.jpeg');
+    background-size: cover;
+    border-radius: 0;
+}
+
+.jumbotron-heading, p.lead{
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    font-weight: bold
+}
+
+.card {
+    margin-bottom: 2em;
+    width: 18em;
+    
+}
